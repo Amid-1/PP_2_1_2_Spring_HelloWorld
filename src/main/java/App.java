@@ -17,7 +17,7 @@ public class App {
         System.out.println(cat.getName());
 
         System.out.println("HelloWorld beans are the same: " + (bean == bean2));
-        System.out.println("Cat beans are the same: " + (cat == cat2)); 
+        System.out.println("Cat beans are the same: " + (cat == cat2));
     }
 }
 
